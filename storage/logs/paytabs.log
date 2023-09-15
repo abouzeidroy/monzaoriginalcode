@@ -1,0 +1,2 @@
+[2023-07-05 13:01:06] local.INFO: {"code":206,"message":"Currency not available","trace":"PMNT0705.64A56992.00002548","success":false,"payment_url":null}  
+[2023-07-10 10:23:15] local.INFO: {"code":206,"message":"Invalid currency code","trace":"PMNT0705.64ABDC13.0001573A","success":false,"payment_url":null}  
